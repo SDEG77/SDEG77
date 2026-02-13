@@ -22,7 +22,7 @@
 - 💻 I’m Sigrae Derf E. Gabriel, a Full-Stack Developer
 - 🌱 Currently learning React/Laravel/Inertia
 - 🎯 Goal: Master Full-Stack Developer
-- ⚡ Fun fact: Former Top 12 Global Fanny
+- ⚡ Fun fact: I Draw As a Hobby
 
 ---
 
