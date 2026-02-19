@@ -1,65 +1,85 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sigrae%20Derf%20Gabriel&fontAlign=50&fontAlignY=35&desc=Building%20cool%20things%20with%20code%20%E2%9C%A8&descAlign=50&descAlignY=55&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sigrae%20Derf%20Gabriel&fontAlign=50&fontAlignY=35&desc=A%20Fullstack%20Developer%20With%20a%20Myriad%20of%20Expertise!&descAlign=50&descAlignY=55&color=gradient" />
 
   <p>
     <a href="mailto:sde.gabriel.77@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-sde.gabriel.77@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://sigrae-derf-portfolio.netlify.app">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <!-- REAL PROFILE VIEWS -->
+  <img src="https://komarev.com/ghpvc/?username=SDEG77&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-- 💻 I’m Sigrae Derf E. Gabriel, a Full-Stack Developer
-- 🌱 Currently learning React/Laravel/Inertia
-- 🎯 Goal: Master Full-Stack Developer
-- ⚡ Fun fact: I Draw As a Hobby
+Full Stack Developer building scalable web & mobile applications.
+
+- 💻 Frontend: HTML, CSS, Tailwind, JavaScript, React, React Native
+- ⚙ Backend: PHP, Laravel, Node.js, Express.js, C#
+- 🗄 Databases: MySQL, MongoDB
+- 🧠 Exploring: AWS Development
+- 🎯 Goal: Become a high-level full stack developer
+- 🎨 Hobby: Digital & traditional drawing
 
 ---
 
-## 🧩 Tech Stack
+# 🧩 Tech Stack
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&perline=7" />
-  <br />
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,tailwind,bootstrap&perline=7" />
-  <br />
-  <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,mysql,mongodb,cs,git,github,unity&perline=7" />
 
 </div>
 
 ---
 
-## 🧠 Currently Working On
+# 📊 GitHub Analytics
 
-- ✅ Electronik Hub ECOMMERCE 
-- ✅ Electronik Hub Project Management System
-- 🔜 I don't know
+<div align="center">
+<table border="0px">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sdeg77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdeg77&layout=compact&theme=tokyonight&v=2" />
+    </td>
+  </tr>
+</table>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=SDEG77&theme=tokyonight&hide_border=false" />
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
-
-- Portfolio: sigrae-derf-portfolio.netlify.app
-- Email: sde.gabriel.77@gmail.com
-
----
+# 🏆 Activity Graph
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDEG77&theme=tokyonight" />
 
 </div>
+
+---
+
+# 🚧 Current Projects
+
+- 🛒 Electronik Hub Ecommerce System
+- 📊 Electronik Hub Project Management System
+
+---
+# 👨‍💻 Visit my Web Portfolio
+
+[![My Portfolio](https://github.com/user-attachments/assets/1239df17-0a43-4226-94b8-ce4b0cd8f6af)](https://sigrae-derf-portfolio.netlify.app)
+
+
