@@ -66,7 +66,7 @@ Full Stack Developer building scalable web & mobile applications.
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDEG77&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDEG77&theme=github-dark&area=true" />
 
 </div>
 
