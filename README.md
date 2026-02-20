@@ -56,7 +56,7 @@ Full Stack Developer building scalable web & mobile applications.
 </table>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=SDEG77&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=SDEG77&theme=tokyonight&hide_border=false&timezone=Asia/Manila" />
 
 </div>
 
