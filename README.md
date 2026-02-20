@@ -35,7 +35,7 @@ Full Stack Developer building scalable web & mobile applications.
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,mysql,mongodb,cs,git,github,unity&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,php,laravel,react,nodejs,express,mysql,mongodb,cs,git,github,unity,godot&perline=7" />
 
 </div>
 
