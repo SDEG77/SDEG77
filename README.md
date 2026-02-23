@@ -12,7 +12,7 @@
   </p>
 
   <!-- REAL PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=johnanthonypesco&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
