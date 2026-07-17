@@ -22,12 +22,11 @@
 
 Full Stack Developer building scalable web & mobile applications.
 
-- 💻 Frontend: HTML, CSS, Tailwind, JavaScript, React, React Native
-- ⚙ Backend: PHP, Laravel, Node.js, Express.js, C#
-- 🗄 Databases: MySQL, MongoDB
-- 🧠 Exploring: AWS Development
-- 🎯 Goal: Become a high-level full stack developer
-- 🎨 Hobby: Digital & traditional drawing
+- 💻 Languages: PHP, JavaScript, Typescript, SQL.
+- ⚙ Frameworks: REST APIs, Laravel, React, React Native, Express.js, Tailwind CSS, EJS.
+- 🗄 Databases: MySQL, SQLite, , PostgreSQL, MongoDB
+- 🧠 Exploring: Next.js, Prisma ORM, Jest, Playwright
+- 🎨 Tools: Git, GitHub, GitHub Actions, Docker, Postman, Figma, Microsoft Office.
 
 ---
 
@@ -35,9 +34,15 @@ Full Stack Developer building scalable web & mobile applications.
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=tailwind,js,php,laravel,react,nodejs,express,mysql,mongodb,cs,git,github,unity,godot&perline=7" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,ts,tailwind,nodejs,express,mysql,sqlite,postgresql,mongodb,git,github&perline=7" />
 
 </div>
+
+---
+
+# 👨‍💻 Visit my Web Portfolio
+
+[![My Portfolio](https://github.com/user-attachments/assets/1239df17-0a43-4226-94b8-ce4b0cd8f6af)](https://sigrae-derf-portfolio.netlify.app)
 
 ---
 
@@ -69,17 +74,3 @@ Full Stack Developer building scalable web & mobile applications.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDEG77&theme=github-dark&area=true" />
 
 </div>
-
----
-
-# 🚧 Current Projects
-
-- 🛒 Electronik Hub Ecommerce System
-- 📊 Electronik Hub Project Management System
-
----
-# 👨‍💻 Visit my Web Portfolio
-
-[![My Portfolio](https://github.com/user-attachments/assets/1239df17-0a43-4226-94b8-ce4b0cd8f6af)](https://sigrae-derf-portfolio.netlify.app)
-
-
